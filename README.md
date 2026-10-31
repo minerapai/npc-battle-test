@@ -7,6 +7,12 @@
 - 필요한 모드: Cobblemon, Radical Cobblemon Trainers (rctmod, rctapi), Fabric API
 - 설치: 서버에만 넣으면 됩니다. 접속하는 사람(클라이언트)은 이 모드가 없어도 됩니다.
 
+## 다운로드
+
+**[⬇ npc-battle-test-0.1.0.jar 다운로드](https://github.com/minerapai/npc-battle-test/releases/download/v0.1.0/npc-battle-test-0.1.0.jar)**
+
+받은 jar 파일을 마인크래프트(또는 서버) 폴더의 `mods` 폴더에 넣으면 됩니다. 다른 버전은 [Releases](https://github.com/minerapai/npc-battle-test/releases) 에 있습니다.
+
 ## 기능
 
 - NPC 트레이너 두 명을 소환해 서로 배틀시키기
