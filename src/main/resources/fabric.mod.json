@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "id": "npcbattletest",
+  "version": "${version}",
+  "name": "NPC Battle Test",
+  "description": "Test only: /npcbattle starts a real Cobblemon battle between two NPC trainers.",
+  "license": "MIT",
+  "environment": "server",
+  "entrypoints": { "main": ["kr.npcbattletest.NpcBattleTest"] },
+  "depends": { "fabricloader": ">=0.16.0", "minecraft": "1.21.1", "fabric-api": "*", "cobblemon": ">=1.7.0", "rctmod": "*", "rctapi": "*" }
+}
